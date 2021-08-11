@@ -67,6 +67,8 @@ const handlePizzaSubmit = event => {
     })
     .catch(err => {
       console.log(err);
+      // instead of the app failing, data will be stored in the new_pizza object store in the IndexedDB database called pizza_hunt
+      saveRecord(formData);
     });
 };
 
