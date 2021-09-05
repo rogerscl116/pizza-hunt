@@ -6,10 +6,7 @@
 Deployed application: https://pizza-hunt825219.herokuapp.com/
 
 ## Screenshots
-### Homepage
-![Pizza Hunt Homepage]()
-### Dashboard
-![Pizza Hunt Discussion]()
+![Pizza Hunt Homepage](./public/assets/images/pizzahunthome.jpg)
 
 ## Table of Contents
   * [Installation](#installation)
